@@ -1,6 +1,4 @@
 // code
-const Name = {
-  name: "Desmond",
-};
+const Name: string = "Desmond";
 
-console.log(Name.name);
+console.log(Name);

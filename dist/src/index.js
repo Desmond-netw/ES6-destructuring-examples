@@ -1,6 +1,4 @@
 "use strict";
 // code
-const Name = {
-    name: "Desmond",
-};
-console.log(Name.name);
+const Name = "Desmond";
+console.log(Name);
